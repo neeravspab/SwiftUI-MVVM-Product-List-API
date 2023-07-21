@@ -1,8 +1,8 @@
 # Swift | SwiftUI | MVVM | Generic API Call
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-21 at 13 00 48](https://github.com/noscsu42/SwiftUI-MVVM-Product-List-API/assets/136747232/aced77e3-ae57-42c9-8d4d-cda95628e82b)  { width: 200px; }
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-21 at 13 00 53](https://github.com/noscsu42/SwiftUI-MVVM-Product-List-API/assets/136747232/a2d8e9f3-fec9-4911-8fc8-9f1247874573)
-
+| Light Mode               | Dark Mode              |
+| ---------------------- | ---------------------- |
+| ![LightMode](https://github.com/noscsu42/SwiftUI-MVVM-Product-List-API/assets/136747232/dff92a26-a23f-4b28-9907-88f3815d8bac) | ![DarkMode](https://github.com/noscsu42/SwiftUI-MVVM-Product-List-API/assets/136747232/d063bee4-13df-4e80-84e4-59e1dfa332a9) |
 
 ## Characteristics
 
