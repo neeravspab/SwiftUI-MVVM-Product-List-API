@@ -10,7 +10,7 @@
 -> UI framework SwiftUI<br />
 -> MVVM (Model-View-ViewModel) architecture pattern<br />
 -> Generic APi call with URLSession<br />
--> Used Closer, typealias, complition, Enum<br />
+-> Used Closures, typealias, complition, Enum<br />
 -> Design with VStack and HStack and NavigationView<br />
 -> Swift package manager<br />
 -> For Image loading used Kingfisher Library<br />
